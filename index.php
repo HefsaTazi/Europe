@@ -51,7 +51,7 @@
                     <ul class="rd-navbar-nav">
                       <li class="rd-nav-item"><a class="rd-nav-link" href="index.html">Accueil</a>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link"href="#">A propos</a>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="#">A propos</a>
                         <!-- RD Navbar Dropdown-->
                         <ul class="rd-menu rd-navbar-dropdown">
                           <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="https://www.getyooz.com/fr/entreprise">Société</a></li>
