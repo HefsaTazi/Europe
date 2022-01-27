@@ -49,7 +49,7 @@
                   <div class="rd-navbar-nav-wrap">
                     <!-- RD Navbar Nav-->
                     <ul class="rd-navbar-nav">
-                      <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">Accueil</a>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="index.html">Accueil</a>
                       </li>
                       <li class="rd-nav-item"><a class="rd-nav-link"href="#">A propos</a>
                         <!-- RD Navbar Dropdown-->
