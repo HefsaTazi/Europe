@@ -64,7 +64,7 @@
                         <ul class="rd-menu rd-navbar-dropdown">
                           <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="https://www.getyooz.com/fr/solution-dematerialisation">Plateforme Business Edition</a></li>
 						  <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="https://www.getyooz.com/fr/solution-dematerialisationl">Plateforme Expert Edition</a></li>
-						  <li class="rd-dropdown-item"><a class="rd-dropdown-link" >Tables TVA</a></li>
+						  <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="https://tva-yosoft.herokuapp.com/" >Tables TVA</a></li>
                         </ul>
                       </li>
                       <li class="rd-nav-item"><a class="rd-nav-link" href="https://www.getyooz.com/fr/pourquoi-yooz">Pourquoi Yooz</a>
@@ -602,14 +602,14 @@ data-slide-effect="fade">
             </div>
             <div class="col-sm-6 col-md-4 wow fadeInLeft" data-wow-delay="0.2s">
               <div class="blurb-image">
-                <div><img src="images/csv.png" width="59" height="60"/></div>
+                <div><img src="images/CSV.png" width="59" height="60"/></div>
   <input type="radio" id="dewey" name="drone" value="dewey">
   <label for="dewey">Format CSV</label>
               </div>
             </div>
             <div class="col-sm-6 col-md-4 wow fadeInLeft" data-wow-delay="0.3s">
               <div class="blurb-image">
-                <div><img src="images/word.png" width="59" height="60"/></div>
+                <div><img src="images/WORD.png" width="59" height="60"/></div>
   <input type="radio" id="dewey" name="drone" value="dewey">
   <label for="dewey">Format Word</label>
               </div>
