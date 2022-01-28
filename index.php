@@ -568,7 +568,7 @@ data-slide-effect="fade">
 		</div>
 	
         <div class="container">
-			            <h2>Format de téléchargement :</h2>
+			            <h2>Formats de téléchargement :</h2>
 
           <div class="row row-30 row-xxl-60">
             <div class="col-sm-6 col-md-4 wow fadeInLeft">
